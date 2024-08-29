@@ -1,0 +1,40 @@
+.icon {
+  color: light-dark(var(--mantine-color-gray-5), var(--mantine-color-dark-3));
+}
+
+.name {
+  font-family: Greycliff CF, var(--mantine-font-family);
+}
+.mainWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+.mainContainer {
+  /* background-color: red; */
+  height: 700px;
+  width: 1200px;
+}
+
+.groupContainer {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.candidateContainer {
+  padding-left: 20px;
+  border-radius: 15px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 50vw;
+  height: 120px;
+  background: #1f3477;
+  color: #ffffff;
+  /* background-color: red; */
+}

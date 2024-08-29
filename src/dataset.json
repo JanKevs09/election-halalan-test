@@ -1,0 +1,3028 @@
+[
+  {
+    "name": "NCR",
+    "long": "National Capital Region",
+    "key": "NCR",
+    "province": [
+      {
+        "name": "Metro Manila",
+        "region": "NCR",
+        "key": "MM",
+        "cites": [
+          {
+            "name": "Caloocan",
+            "province": "MM",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Las Piñas",
+            "province": "MM",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 123,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "CAR",
+    "long": "Cordillera Admininstrative Region",
+    "key": "CAR",
+    "province": [
+      {
+        "name": "Abra",
+        "region": "CAR",
+        "key": "ABR",
+        "cites": [
+          {
+            "name": "Bangued",
+            "province": "ABR",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Boliney",
+            "province": "ABR",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Apayao",
+        "region": "CAR",
+        "key": "APA",
+        "cites": [
+          {
+            "name": "Calanasan",
+            "province": "APA",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Conner",
+            "province": "APA",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Benguet",
+        "region": "CAR",
+        "key": "BEN",
+        "cites": [
+          {
+            "name": "Baguio",
+            "province": "BEN",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Bakun",
+            "province": "BEN",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Ifugao",
+        "region": "CAR",
+        "key": "IFU",
+        "cites": [
+          {
+            "name": "Aguinaldo",
+            "province": "IFU",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Alfonso Lista",
+            "province": "IFU",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Kalinga",
+        "region": "CAR",
+        "key": "KAL",
+        "cites": [
+          {
+            "name": "Balbalan",
+            "province": "KAL",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Lubuagan",
+            "province": "KAL",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Mountain Province",
+        "region": "CAR",
+        "key": "MOU",
+        "cites": [
+          {
+            "name": "Barlig",
+            "province": "MOU",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Bauko",
+            "province": "MOU",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Region I",
+    "long": "Ilocos Region",
+    "key": "I",
+    "province": [
+      {
+        "name": "Ilocos Norte",
+        "region": "I",
+        "key": "ILN",
+        "cites": [
+          {
+            "name": "Batac",
+            "province": "ILN",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Laoag",
+            "province": "ILN",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Ilocos Sur",
+        "region": "I",
+        "key": "ILS",
+        "cites": [
+          {
+            "name": "Candon",
+            "province": "ILS",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Vigan",
+            "province": "ILS",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "La Union",
+        "region": "I",
+        "key": "LUN",
+        "cites": [
+          {
+            "name": "Rosario",
+            "province": "LUN",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "San Fernando",
+            "province": "LUN",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Pangasinan",
+        "region": "I",
+        "key": "PAN",
+        "cites": [
+          {
+            "name": "Alaminos",
+            "province": "PAN",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "San Carlos",
+            "province": "PAN",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Region II",
+    "long": "Cagayan Valley",
+    "key": "II",
+    "province": [
+      {
+        "name": "Batanes",
+        "region": "II",
+        "key": "BTN",
+        "cites": [
+          {
+            "name": "Basco",
+            "province": "BTN",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Itbayat",
+            "province": "BTN",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Cagayan",
+        "region": "II",
+        "key": "CAG",
+        "cites": [
+          {
+            "name": "Tuao",
+            "province": "CAG",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Tuguegarao",
+            "province": "CAG",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Isabela",
+        "region": "II",
+        "key": "ISA",
+        "cites": [
+          {
+            "name": "Cauayan",
+            "province": "ISA",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Ilagan",
+            "province": "ISA",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Nueva Vizcaya",
+        "region": "II",
+        "key": "NUV",
+        "cites": [
+          {
+            "name": "Alfonso Castaneda",
+            "province": "NUV",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Ambaguio",
+            "province": "NUV",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Quirino",
+        "region": "II",
+        "key": "QUI",
+        "cites": [
+          {
+            "name": "Aglipay",
+            "province": "QUI",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Cabarroguis",
+            "province": "QUI",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Region III",
+    "long": "Central Luzon",
+    "key": "III",
+    "province": [
+      {
+        "name": "Aurora",
+        "region": "III",
+        "key": "AUR",
+        "cites": [
+          {
+            "name": "Baler",
+            "province": "AUR",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Casiguran",
+            "province": "AUR",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Bataan",
+        "region": "III",
+        "key": "BAN",
+        "cites": [
+          {
+            "name": "Bagac",
+            "province": "BAN",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Balanga",
+            "province": "BAN",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Bulacan",
+        "region": "III",
+        "key": "BUL",
+        "cites": [
+          {
+            "name": "Malolos",
+            "province": "BUL",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "San Jose del Monte",
+            "province": "BUL",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Nueva Ecija",
+        "region": "III",
+        "key": "NUE",
+        "cites": [
+          {
+            "name": "Cabanatuan",
+            "province": "NUE",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Gapan",
+            "province": "NUE",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Pampanga",
+        "region": "III",
+        "key": "PAM",
+        "cites": [
+          {
+            "name": "Angeles",
+            "province": "PAM",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Mabalacat",
+            "province": "PAM",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Tarlac",
+        "region": "III",
+        "key": "TAR",
+        "cites": [
+          {
+            "name": "Santa Ignacia",
+            "province": "TAR",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Tarlac",
+            "province": "TAR",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Zambales",
+        "region": "III",
+        "key": "ZMB",
+        "cites": [
+          {
+            "name": "Masinloc",
+            "province": "ZMB",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Olongapo",
+            "province": "ZMB",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Region IV-A",
+    "long": "CALABARZON",
+    "key": "IV-A",
+    "province": [
+      {
+        "name": "Batangas",
+        "region": "IV-A",
+        "key": "BTG",
+        "cites": [
+          {
+            "name": "Batangas",
+            "province": "BTG",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Lipa",
+            "province": "BTG",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Cavite",
+        "region": "IV-A",
+        "key": "CAV",
+        "cites": [
+          {
+            "name": "Cavite",
+            "province": "CAV",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Dasmariñas",
+            "province": "CAV",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Laguna",
+        "region": "IV-A",
+        "key": "LAG",
+        "cites": [
+          {
+            "name": "Cabuyao",
+            "province": "LAG",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Calamba",
+            "province": "LAG",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Quezon",
+        "region": "IV-A",
+        "key": "QUE",
+        "cites": [
+          {
+            "name": "Lucban",
+            "province": "QUE",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Lucena",
+            "province": "QUE",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Rizal",
+        "region": "IV-A",
+        "key": "RIZ",
+        "cites": [
+          {
+            "name": "Angono",
+            "province": "RIZ",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Antipolo",
+            "province": "RIZ",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Region IV-B",
+    "long": "MIMAROPA",
+    "key": "IV-B",
+    "province": [
+      {
+        "name": "Marinduque",
+        "region": "IV-B",
+        "key": "MAD",
+        "cites": [
+          {
+            "name": "Boac",
+            "province": "MAD",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Buenavista",
+            "province": "MAD",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Occidental Mindoro",
+        "region": "IV-B",
+        "key": "MDC",
+        "cites": [
+          {
+            "name": "Abra de Ilog",
+            "province": "MDC",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Calintaan",
+            "province": "MDC",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Oriental Mindoro",
+        "region": "IV-B",
+        "key": "MDR",
+        "cites": [
+          {
+            "name": "Bulalacao",
+            "province": "MDR",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Calapan",
+            "province": "MDR",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Palawan",
+        "region": "IV-B",
+        "key": "PLW",
+        "cites": [
+          {
+            "name": "Narra",
+            "province": "PLW",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Puerto Princesa",
+            "province": "PLW",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Romblon",
+        "region": "IV-B",
+        "key": "ROM",
+        "cites": [
+          {
+            "name": "Santa Fe",
+            "province": "ROM",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Santa Maria",
+            "province": "ROM",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Region V",
+    "long": "Bicol Region",
+    "key": "V",
+    "province": [
+      {
+        "name": "Albay",
+        "region": "V",
+        "key": "ALB",
+        "cites": [
+          {
+            "name": "Jovellar",
+            "province": "ALB",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Legazpi",
+            "province": "ALB",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Camarines Norte",
+        "region": "V",
+        "key": "CAN",
+        "cites": [
+          {
+            "name": "Basud",
+            "province": "CAN",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Capalonga",
+            "province": "CAN",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Camarines Sur",
+        "region": "V",
+        "key": "CAS",
+        "cites": [
+          {
+            "name": "Goa",
+            "province": "CAS",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Iriga",
+            "province": "CAS",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Catanduanes",
+        "region": "V",
+        "key": "CAT",
+        "cites": [
+          {
+            "name": "Bagamanoc",
+            "province": "CAT",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Baras",
+            "province": "CAT",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Masbate",
+        "region": "V",
+        "key": "MAS",
+        "cites": [
+          {
+            "name": "Mandaon",
+            "province": "MAS",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Masbate",
+            "province": "MAS",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Sorsogon",
+        "region": "V",
+        "key": "SOR",
+        "cites": [
+          {
+            "name": "Santa Magdalena",
+            "province": "SOR",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Sorsogon",
+            "province": "SOR",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Region VI",
+    "long": "Western Visayas",
+    "key": "VI",
+    "province": [
+      {
+        "name": "Aklan",
+        "region": "VI",
+        "key": "AKL",
+        "cites": [
+          {
+            "name": "Ibajay",
+            "province": "AKL",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Kalibo",
+            "province": "AKL",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Antique",
+        "region": "VI",
+        "key": "ANT",
+        "cites": [
+          {
+            "name": "Tibiao",
+            "province": "ANT",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Tobias Fornier",
+            "province": "ANT",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Capiz",
+        "region": "VI",
+        "key": "CAP",
+        "cites": [
+          {
+            "name": "President Roxas",
+            "province": "CAP",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Roxas",
+            "province": "CAP",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Guimaras",
+        "region": "VI",
+        "key": "GUI",
+        "cites": [
+          {
+            "name": "San Lorenzo",
+            "province": "GUI",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Sibunag",
+            "province": "GUI",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Iloilo",
+        "region": "VI",
+        "key": "ILI",
+        "cites": [
+          {
+            "name": "Igbaras",
+            "province": "ILI",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Iloilo",
+            "province": "ILI",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Negros Occidental",
+        "region": "VI",
+        "key": "NEC",
+        "cites": [
+          {
+            "name": "Bacolod",
+            "province": "NEC",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Bago",
+            "province": "NEC",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Region VII",
+    "long": "Central Visayas",
+    "key": "VII",
+    "province": [
+      {
+        "name": "Bohol",
+        "region": "VII",
+        "key": "BOH",
+        "cites": [
+          {
+            "name": "Sikatuna",
+            "province": "BOH",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Tagbilaran",
+            "province": "BOH",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      { "name": "Cebu", "region": "VII", "key": "CEB", "cites": [] },
+      {
+        "name": "Negros Oriental",
+        "region": "VII",
+        "key": "NER",
+        "cites": [
+          {
+            "name": "Catmon",
+            "province": "CEB",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Cebu",
+            "province": "CEB",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Siquijor",
+        "region": "VII",
+        "key": "SIG",
+        "cites": [
+          {
+            "name": "Enrique Villanueva",
+            "province": "SIG",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Larena",
+            "province": "SIG",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Region VIII",
+    "long": "Eastern Visayas",
+    "key": "VIII",
+    "province": [
+      {
+        "name": "Biliran",
+        "region": "VIII",
+        "key": "BIL",
+        "cites": [
+          {
+            "name": "Almeria",
+            "province": "BIL",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Biliran",
+            "province": "BIL",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Eastern Samar",
+        "region": "VIII",
+        "key": "EAS",
+        "cites": [
+          {
+            "name": "Balangkayan",
+            "province": "EAS",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Borongan",
+            "province": "EAS",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Leyte",
+        "region": "VIII",
+        "key": "LEY",
+        "cites": [
+          {
+            "name": "Bato",
+            "province": "LEY",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Baybay",
+            "province": "LEY",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Northern Samar",
+        "region": "VIII",
+        "key": "NSA",
+        "cites": [
+          {
+            "name": "Allen",
+            "province": "NSA",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Biri",
+            "province": "NSA",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Samar",
+        "region": "VIII",
+        "key": "WSA",
+        "cites": [
+          {
+            "name": "Calbiga",
+            "province": "WSA",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Catbalogan",
+            "province": "WSA",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Southern Leyte",
+        "region": "VIII",
+        "key": "SLE",
+        "cites": [
+          {
+            "name": "Limasawa",
+            "province": "SLE",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Maasin",
+            "province": "SLE",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Region IX",
+    "long": "Zamboange Peninsula",
+    "key": "IX",
+    "province": [
+      {
+        "name": "Zamboanga del Norte",
+        "region": "IX",
+        "key": "ZAN",
+        "cites": [
+          {
+            "name": "Dapitan",
+            "province": "ZAN",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Dipolog",
+            "province": "ZAN",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Zamboanga del Sur",
+        "region": "IX",
+        "key": "ZAS",
+        "cites": [
+          {
+            "name": "Vincenzo A. Sagun",
+            "province": "ZAS",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Zamboanga",
+            "province": "ZAS",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Zamboanga Sibugay",
+        "region": "IX",
+        "key": "ZSI",
+        "cites": [
+          {
+            "name": "Alicia",
+            "province": "ZSI",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Buug",
+            "province": "ZSI",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Region X",
+    "long": "Northen Mindanao",
+    "key": "X",
+    "province": [
+      {
+        "name": "Bukidnon",
+        "region": "X",
+        "key": "BUK",
+        "cites": [
+          {
+            "name": "Libona",
+            "province": "BUK",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Malaybalay",
+            "province": "BUK",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Camiguin",
+        "region": "X",
+        "key": "CAM",
+        "cites": [
+          {
+            "name": "Catarman",
+            "province": "CAM",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Guinsiliban",
+            "province": "CAM",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Lanao del Norte",
+        "region": "X",
+        "key": "LAN",
+        "cites": [
+          {
+            "name": "Baroy",
+            "province": "LAN",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Iligan",
+            "province": "LAN",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Misamis Occidental",
+        "region": "X",
+        "key": "MSC",
+        "cites": [
+          {
+            "name": "Oroquieta",
+            "province": "MSC",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Ozamiz",
+            "province": "MSC",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Misamis Oriental",
+        "region": "X",
+        "key": "MSR",
+        "cites": [
+          {
+            "name": "El Salvador",
+            "province": "MSR",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Gingoog",
+            "province": "MSR",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Region XI",
+    "long": "Davao Region",
+    "key": "XI",
+    "province": [
+      {
+        "name": "Compostela Valley",
+        "region": "XI",
+        "key": "COM",
+        "cites": [
+          {
+            "name": "New Bataan",
+            "province": "COM",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Pantukan",
+            "province": "COM",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Davao del Norte",
+        "region": "XI",
+        "key": "DAV",
+        "cites": [
+          {
+            "name": "Panabo",
+            "province": "DAV",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Samal",
+            "province": "DAV",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Davao del Sur",
+        "region": "XI",
+        "key": "DAS",
+        "cites": [
+          {
+            "name": "Davao",
+            "province": "DAS",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Digos",
+            "province": "DAS",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Davao Occidental",
+        "region": "XI",
+        "key": "DAC",
+        "cites": [
+          {
+            "name": "Don Marcelino",
+            "province": "DAC",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Jose Abad Santos",
+            "province": "DAC",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Davao Oriental",
+        "region": "XI",
+        "key": "DAO",
+        "cites": [
+          {
+            "name": "Manay",
+            "province": "DAO",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Mati",
+            "province": "DAO",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Region XII",
+    "long": "SOCCSKARGEN",
+    "key": "XII",
+    "province": [
+      {
+        "name": "Cotabato",
+        "region": "XII",
+        "key": "NCO",
+        "cites": [
+          {
+            "name": "Kabacan",
+            "province": "NCO",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Kidapawan",
+            "province": "NCO",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Sarangani",
+        "region": "XII",
+        "key": "SAR",
+        "cites": [
+          {
+            "name": "Alabel",
+            "province": "SAR",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Glan",
+            "province": "SAR",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "South Cotabato",
+        "region": "XII",
+        "key": "SCO",
+        "cites": [
+          {
+            "name": "Banga",
+            "province": "SCO",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "General Santos",
+            "province": "SCO",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Sultan Kudarat",
+        "region": "XII",
+        "key": "SUK",
+        "cites": [
+          {
+            "name": "Senator Ninoy Aquino",
+            "province": "SUK",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Tacurong",
+            "province": "SUK",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Region XIII",
+    "long": "Caraga",
+    "key": "XIII",
+    "province": [
+      {
+        "name": "Agusan del Norte",
+        "region": "XIII",
+        "key": "AGN",
+        "cites": [
+          {
+            "name": "Butuan",
+            "province": "AGN",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Cabadbaran",
+            "province": "AGN",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Agusan del Sur",
+        "region": "XIII",
+        "key": "AGS",
+        "cites": [
+          {
+            "name": "Bayugan",
+            "province": "AGS",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Bunawan",
+            "province": "AGS",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Dinagat Islands",
+        "region": "XIII",
+        "key": "DIN",
+        "cites": [
+          {
+            "name": "Basilisa",
+            "province": "DIN",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Cagdianao",
+            "province": "DIN",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Surigao del Norte",
+        "region": "XIII",
+        "key": "SUN",
+        "cites": [
+          {
+            "name": "Socorro",
+            "province": "SUN",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Surigao",
+            "province": "SUN",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Surigao del Sur",
+        "region": "XIII",
+        "key": "SUR",
+        "cites": [
+          {
+            "name": "Tago",
+            "province": "SUR",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Tandag",
+            "province": "SUR",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ARMM",
+    "long": "Autonomous Region in Muslim Mindanao",
+    "key": "ARMM",
+    "province": [
+      {
+        "name": "Basilan",
+        "region": "ARMM",
+        "key": "BAS",
+        "cites": [
+          {
+            "name": "Isabela",
+            "province": "BAS",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Lamitan",
+            "province": "BAS",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Lanao del Sur",
+        "region": "ARMM",
+        "key": "LAS",
+        "cites": [
+          {
+            "name": "Marantao",
+            "province": "LAS",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Marawi",
+            "province": "LAS",
+            "city": true,
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Maguindanao",
+        "region": "ARMM",
+        "key": "MAG",
+        "cites": [
+          {
+            "name": "Ampatuan",
+            "province": "MAG",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Barira",
+            "province": "MAG",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Sulu",
+        "region": "ARMM",
+        "key": "SLU",
+        "cites": [
+          {
+            "name": "Banguingui",
+            "province": "SLU",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Hadji Panglima Tahil",
+            "province": "SLU",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "Tawi-tawi",
+        "region": "ARMM",
+        "key": "TAW",
+        "cites": [
+          {
+            "name": "Bongao",
+            "province": "TAW",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          },
+          {
+            "name": "Languyan",
+            "province": "TAW",
+            "vote_count": {
+              "president": {
+                "BBM": 156,
+                "LENI": 98
+              },
+              "vice_president": {
+                "SARA": 142,
+                "KIKO": 97
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
